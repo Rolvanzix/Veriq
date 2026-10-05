@@ -1,0 +1,6 @@
+{
+  "name": "ARC Verify",
+  "description": "Decentralized credential issuance, anchoring, and verification platform on Arc Mainnet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
